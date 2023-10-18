@@ -1,5 +1,3 @@
-Forked from  [Kathryn Schuler]('https://kathrynschuler.com/'). Thank you!
-
 - You can manipulate the home page in *index.md*.
 - You can add papers to the *files* folder, and change the *research.md* correspondingly.
 - You can also put the slides for teaching into the *files* folder, and then change the *teaching.md* similarly.
