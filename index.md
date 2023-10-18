@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<img class="img-responsive" style="float: left; margin: 10px 20px 20px 10px;" src="/files/images/sun_profile.jpg" width="420">  
+<img class="img-responsive" style="float: left; margin: 10px 20px 20px 10px;" src="/files/images/mingzuo_profile.jpg" width="420">  
 
 Welcome!
 
