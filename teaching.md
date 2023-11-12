@@ -7,9 +7,11 @@ title: "Teaching"
 
 **Elements of Macro** (Fall 2019)
 
-**Macroeconomic Theory** ( Spring 2021 & 2022&2023)
+**Macroeconomic Theory** ( Spring 2021 & 2022 & 2023)
 
 **Corporate Finance**  ( Spring 2020)
+
+**Monetary Analysis**  ( Fall 2020)
 
 **Investments**  (Fall 2021)
 
