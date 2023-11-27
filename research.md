@@ -5,7 +5,7 @@ title: "Research"
 
 ## Working Papers
 
-### Two-way Capital Flow Management in Emerging Markets [(JMP)](/files/JobMarketPaper.pdf) [(Slides)](/files/Slides_First.pdf)[(Non-technical Summary)](/files/Non-technical Summary.pdf)
+### Two-way Capital Flow Management in Emerging Markets [(JMP)](/files/JobMarketPaper.pdf) [(Slides)](/files/Slides_First.pdf) [(Non-technical Summary)](/files/Non-technical Summary.pdf)
 While the ongoing debate on capital flow management (CFM) policies mainly focuses on net capital flows, this paper studies the joint management of gross inflows and outflows. By calibrating a DSGE model to Brazil’s case, we find it optimal for Brazil to shrink its external balance sheet by decreasing both inflows and outflows during global financial easing periods. The optimal allocation can be achieved by introducing countercyclical capital flow taxes on the economy’s short and long-term bond purchases. The welfare gain from such policies is equivalent to an increase of 0.2 percent in permanent consumption.
 
 ### Dominant Current Account Drivers (co-authored with Jaewoo Lee and Lukas Boer) [(Slides)](/files/Slides_Second.pdf)
